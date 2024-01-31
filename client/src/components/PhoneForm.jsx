@@ -1,6 +1,6 @@
 const PhoneForm = () => {
     return (
-        <h1>Chnage number</h1>
+        <h1>Change number</h1>
     )
 };
 
